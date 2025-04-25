@@ -1,0 +1,45 @@
+info:
+  year: '2025'
+  version: '8'
+  description: Exported from roboflow.com
+  contributor: ''
+  url: https://app.roboflow.com/datasets/htt-fan-matt-basic-cam/8
+  date_created: '2025-04-01T05:06:44+00:00'
+categories:
+- id: 1
+  name: belt
+- id: 2
+  name: coat
+- id: 3
+  name: forklifter
+- id: 4
+  name: glove
+- id: 5
+  name: person
+- id: 6
+  name: shoe
+color_map:
+- - 0
+  - 0
+  - 0
+- - 0
+  - 0
+  - 255
+- - 0
+  - 255
+  - 0
+- - 0
+  - 255
+  - 255
+- - 255
+  - 0
+  - 0
+- - 255
+  - 0
+  - 255
+- - 255
+  - 255
+  - 0
+- - 255
+  - 255
+  - 255
