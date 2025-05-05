@@ -1,0 +1,15 @@
+artifacts/* filter=lfs diff=lfs merge=lfs -text
+artifacts/tempDir/subgraph_0_calib_raw_data.bin filter=lfs diff=lfs merge=lfs -text
+artifacts/tempDir/subgraph_0_tidl_io_.perf_sim_config.txt filter=lfs diff=lfs merge=lfs -text
+artifacts/tempDir/subgraph_0_tidl_io_1.bin filter=lfs diff=lfs merge=lfs -text
+artifacts/tempDir/subgraph_0_tidl_io__LayerPerChannelMean.bin filter=lfs diff=lfs merge=lfs -text
+artifacts/tempDir/subgraph_0_tidl_io__stats_tool_out.bin filter=lfs diff=lfs merge=lfs -text
+artifacts/tempDir/runtimes_visualization.svg filter=lfs diff=lfs merge=lfs -text
+artifacts/tempDir/subgraph_0_tidl_net filter=lfs diff=lfs merge=lfs -text
+artifacts/tempDir/subgraph_0_tidl_net.bin.layer_info.txt filter=lfs diff=lfs merge=lfs -text
+artifacts/tempDir/subgraph_0_tidl_net.bin.svg filter=lfs diff=lfs merge=lfs -text
+artifacts/tempDir/subgraph_0_tidl_io_.qunat_stats_config.txt filter=lfs diff=lfs merge=lfs -text
+artifacts/tempDir/subgraph_0_tidl_net.bin filter=lfs diff=lfs merge=lfs -text
+artifacts/tempDir/subgraph_0_tidl_net.bin_netLog.txt filter=lfs diff=lfs merge=lfs -text
+artifacts/tempDir/subgraph_0_tidl_net.bin_paramDebug.csv filter=lfs diff=lfs merge=lfs -text
+
