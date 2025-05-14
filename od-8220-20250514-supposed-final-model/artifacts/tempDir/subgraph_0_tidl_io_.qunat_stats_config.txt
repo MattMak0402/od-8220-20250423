@@ -1,0 +1,13 @@
+inFileFormat    = 1
+numFrames   = 300
+postProcType   = 0
+postProcDataId   = 0
+quantRangeUpdateFactor   = -1.000000
+inData   = /local_data/home/mattmak/mattmak_20250314/edgeai-tensorlab/edgeai-modelmaker/data/projects/htt_warehouse_plus_climbing.v4i.coco-mmdetection/run/20250513-151852/yolox_s_lite/compilation/AM62A/work/od-8220/artifacts/tempDir/subgraph_0_calib_raw_data.bin
+outData   = "/local_data/home/mattmak/mattmak_20250314/edgeai-tensorlab/edgeai-modelmaker/data/projects/htt_warehouse_plus_climbing.v4i.coco-mmdetection/run/20250513-151852/yolox_s_lite/compilation/AM62A/work/od-8220/artifacts/tempDir/subgraph_0_tidl_io__stats_tool_out.bin"
+netBinFile     = /local_data/home/mattmak/mattmak_20250314/edgeai-tensorlab/edgeai-modelmaker/data/projects/htt_warehouse_plus_climbing.v4i.coco-mmdetection/run/20250513-151852/yolox_s_lite/compilation/AM62A/work/od-8220/artifacts/tempDir/subgraph_0_tidl_net.bin
+ioConfigFile        = /local_data/home/mattmak/mattmak_20250314/edgeai-tensorlab/edgeai-modelmaker/data/projects/htt_warehouse_plus_climbing.v4i.coco-mmdetection/run/20250513-151852/yolox_s_lite/compilation/AM62A/work/od-8220/artifacts/tempDir/subgraph_0_tidl_io_1.bin
+writeTraceLevel        = 0
+debugTraceLevel        = 0
+traceDumpBaseName        = "/local_data/home/mattmak/mattmak_20250314/edgeai-tensorlab/edgeai-modelmaker/data/projects/htt_warehouse_plus_climbing.v4i.coco-mmdetection/run/20250513-151852/yolox_s_lite/compilation/AM62A/work/od-8220/artifacts/tempDir/subgraph_0_tidl_io_
+flowCtrl               = 35

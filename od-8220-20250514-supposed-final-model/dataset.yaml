@@ -1,0 +1,47 @@
+info:
+  year: '2025'
+  version: '4'
+  description: Exported from roboflow.com
+  contributor: ''
+  url: https://app.roboflow.com/datasets/htt_warehouse_plus_climbing/4
+  date_created: '2025-05-07T13:48:21+00:00'
+categories:
+- id: 1
+  name: belt
+- id: 2
+  name: coat
+- id: 3
+  name: forklifter
+- id: 4
+  name: glove
+- id: 5
+  name: ladder
+- id: 6
+  name: person
+- id: 7
+  name: shoe
+color_map:
+- - 0
+  - 0
+  - 0
+- - 0
+  - 0
+  - 255
+- - 0
+  - 255
+  - 0
+- - 0
+  - 255
+  - 255
+- - 255
+  - 0
+  - 0
+- - 255
+  - 0
+  - 255
+- - 255
+  - 255
+  - 0
+- - 255
+  - 255
+  - 255

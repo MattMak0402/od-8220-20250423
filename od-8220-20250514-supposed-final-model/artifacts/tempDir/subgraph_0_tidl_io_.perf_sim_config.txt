@@ -1,0 +1,17 @@
+# Size of L2 Aux SRAM  Memory in KB which can be used by TIDL, Recommended value is
+# 224KB considering that 32KB of L2 is used for other purpose.
+L2MEMSIZE_KB           = 224
+# Size of L2 main SRAM Memory in KB which can be used by TIDL
+MSMCSIZE_KB            = 1024
+#ID for a Device, TDA4VMID = 0, TIDL_TDA4AEP = 1,  TIDL_TDA4AM = 2, TIDL_TDA4AMPlus = 3, TIDL_AM62A = 4
+DEVICE_NAME            = 4
+ENABLE_PERSIT_WT_ALLOC = 1
+DDRFREQ_MHZ            = 3200
+MATPANELSIZE           = 32
+
+
+FILENAME_NET     = /local_data/home/mattmak/mattmak_20250314/edgeai-tensorlab/edgeai-modelmaker/data/projects/htt_warehouse_plus_climbing.v4i.coco-mmdetection/run/20250513-151852/yolox_s_lite/compilation/AM62A/work/od-8220/artifacts/tempDir/subgraph_0_tidl_net.bin
+FILEFORMAT_NET     = -1
+DEVICE_NAME     = 260
+OUTPUT_DIR     = /local_data/home/mattmak/mattmak_20250314/edgeai-tensorlab/edgeai-modelmaker/data/projects/htt_warehouse_plus_climbing.v4i.coco-mmdetection/run/20250513-151852/yolox_s_lite/compilation/AM62A/work/od-8220/artifacts/tempDir/subgraph_0_tidl_net.bin
+DATATYPE     =   1
